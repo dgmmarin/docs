@@ -24,4 +24,5 @@
 ***
 
 * [Tourpaq Documentation](tourpaq-documentation.md)
-* [PLM PAGE](plm-page.md)
+* [Simple PAGE](simple-page.md)
+* [My new page](my-new-page.md)
