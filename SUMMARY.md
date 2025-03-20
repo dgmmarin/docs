@@ -23,6 +23,8 @@
 
 ## BUBUIALAAA
 
+* [PAGINA CU BUBUIALA](pagina-cu-bubuiala.md)
+
 ***
 
-* [PAGINA CU BUBUIALA](pagina-cu-bubuiala.md)
+* [Tourpaq Documentation](tourpaq-documentation.md)
