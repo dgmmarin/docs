@@ -14,16 +14,12 @@
 
 ## Group 1
 
-* [Page 3](group-1/page-3.md)
-
-***
-
-* [Page 4](page-4.md)
-* [Page 5](page-5.md)
+* [ABCD SHIT](group-1/page-3/README.md)
+  * [Page 4](group-1/page-3/page-4.md)
+  * [Page 5](group-1/page-3/page-5/README.md)
+    * [PAGINA CU BUBUIALA](group-1/page-3/page-5/pagina-cu-bubuiala.md)
 
 ## BUBUIALAAA
-
-* [PAGINA CU BUBUIALA](pagina-cu-bubuiala.md)
 
 ***
 
