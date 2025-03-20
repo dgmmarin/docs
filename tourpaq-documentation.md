@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # Tourpaq Documentation
 
 **Cost** is a set of rules that apply for one passenger depending on the selected Transport, Hotel, Extras or Discounts and Supplements on the specific booking.
