@@ -21,8 +21,6 @@
 
 ## BUBUIALAAA
 
-***
-
 * [Tourpaq Documentation](tourpaq-documentation.md)
 * [Simple PAGE](simple-page.md)
 * [My new page](my-new-page.md)
